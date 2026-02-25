@@ -36,7 +36,7 @@ A Claude Code plugin marketplace providing:
 - Commands for git workflows and context management
 - Testing and specification writing guidance
 
-**Repository**: [github.com/simonheimlicher/spx-claude](https://github.com/simonheimlicher/spx-claude "SPX-Claude GitHub repository")
+**Repository**: [github.com/outcomeengineering/spx-claude](https://github.com/outcomeengineering/spx-claude "SPX-Claude GitHub repository")
 
 ## Why Spec-Driven Development?
 

@@ -7,7 +7,7 @@ This repository hosts the documentation and marketing website for the SPX framew
 SPX is a framework for **Spec-Driven Development** — a methodology that combines fast, deterministic CLI tooling with Claude Code plugins to streamline AI-assisted development workflows.
 
 - **[spx CLI](https://github.com/outcomeengineering/spx-cli)**: Fast, deterministic workflow management (<100ms, zero token cost)
-- **[SPX-Claude](https://github.com/simonheimlicher/spx-claude)**: Claude Code marketplace with plugins for testing, coding, and documentation
+- **[SPX-Claude](https://github.com/outcomeengineering/spx-claude)**: Claude Code marketplace with plugins for testing, coding, and documentation
 
 ## Continuous Integration and Deployment (CI/CD)
 
@@ -37,7 +37,7 @@ brew install sass/sass/sass node
 
 ```bash
 # Clone the repository
-git clone https://github.com/simonheimlicher/spx.sh.git
+git clone https://github.com/outcomeengineering/spx.sh.git
 cd spx.sh
 
 # Install Node dependencies

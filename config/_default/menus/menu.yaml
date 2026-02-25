@@ -17,7 +17,7 @@ main:
     weight: 40
   - identifier: github
     name: GitHub
-    url: https://github.com/simonheimlicher
+    url: https://github.com/outcomeengineering
     weight: 90
     params:
       external: true

@@ -15,7 +15,7 @@ This is the documentation and marketing website for **SPX - Spec-Driven Developm
 **SPX** is a framework combining:
 
 - **[spx CLI](https://github.com/outcomeengineering/spx-cli)**: Fast, deterministic workflow management (<100ms, zero token cost)
-- **[SPX-Claude](https://github.com/simonheimlicher/spx-claude)**: Claude Code marketplace with plugins for testing, coding, and documentation
+- **[SPX-Claude](https://github.com/outcomeengineering/spx-claude)**: Claude Code marketplace with plugins for testing, coding, and documentation
 
 ## Content Structure
 

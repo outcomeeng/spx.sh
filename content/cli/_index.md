@@ -27,7 +27,7 @@ keywords:
 ### From GitHub
 
 ```bash
-git clone https://github.com/simonheimlicher/spx-cli.git
+git clone https://github.com/outcomeengineering/spx-cli.git
 cd spx-cli
 npm install
 npm run build

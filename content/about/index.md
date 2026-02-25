@@ -26,7 +26,7 @@ A fast, deterministic command-line tool that:
 - Provides instant (<100ms) status checks without LLM calls
 - Manages work sessions for context handoffs between agents
 
-**Repository**: [github.com/simonheimlicher/spx-cli](https://github.com/simonheimlicher/spx-cli "spx CLI GitHub repository")
+**Repository**: [github.com/outcomeengineering/spx-cli](https://github.com/outcomeengineering/spx-cli "spx CLI GitHub repository")
 
 ### SPX-Claude Marketplace
 

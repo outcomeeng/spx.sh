@@ -21,7 +21,6 @@ cascade:
       publishResources: false
 image:
   feature: images/spx-cli-vs-tree
-
 ---
 
 {{% lede-initial %}} **SPX** is a framework that accelerates Spec-Driven Development (SDD) by combining a blazingly fast command-line interface (CLI) with Claude Code plugins to streamline AI engineering.
@@ -66,7 +65,7 @@ Install the CLI and marketplace to begin using Spec-Driven Development:
 
 ```bash
 # Install spx CLI
-git clone https://github.com/simonheimlicher/spx-cli.git
+git clone https://github.com/outcomeengineering/spx-cli.git
 cd spx-cli && npm install && npm run build && npm link
 
 # Add Claude Code marketplace
